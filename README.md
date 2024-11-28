@@ -13,7 +13,7 @@ Four-wheeled car on Arduino &amp; ESP8266 with Remote Control (Mobile App)
 - Unity (for mobile application)
 - Basic knowledge of Arduino programming and electronics
 ### Installation
-- Clone the repository: git clone https://github.com/yourusername/your-repo-name.git
+- Clone the repository: git clone https://github.com/DanyaCapital/Arduino-WiFi-Car
 - Open the Arduino IDE and upload the provided code to your Arduino board.
 - Set up the ESP8266 for Wi-Fi connectivity.
 - Download and install the Unity application on your mobile device.
@@ -42,7 +42,7 @@ Four-wheeled car on Arduino &amp; ESP8266 with Remote Control (Mobile App)
 - Unity (для мобильного приложения)
 - Базовые знания программирования на Arduino и электроники
 ### Установка
-- Клонируйте репозиторий: git clone https://github.com/yourusername/your-repo-name.git
+- Клонируйте репозиторий: git clone https://github.com/DanyaCapital/Arduino-WiFi-Car
 - Откройте Arduino IDE и загрузите предоставленный код на вашу плату Arduino.
 - Настройте ESP8266 для подключения к Wi-Fi.
 - Скачайте и установите приложение Unity на ваше мобильное устройство.
